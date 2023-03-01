@@ -6,8 +6,8 @@
 4.) React components don't Re-render untill specifically done with help of useState or UseEffect Hook
 
 ***useState***
-
-The value returned by useState() consists of an array with two values.
+The useState Hook can be used to keep track of strings, numbers, booleans, arrays, objects, and any combination of these!</br>
+The value returned by useState() consists of an array with two values.</br>
 The first value is the initial (or starting) value of the state variable, while the second value is a reference to the function that can be used to update the variable.
 
 
